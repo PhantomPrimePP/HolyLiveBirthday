@@ -120,27 +120,29 @@
         "avatar": "Pictures/PP.png",
         "gain": 3.0
       },
+         {
+        "name": "Bahu Birthday",
+        "song": "Buh Juice Birthday",
+        "audio": "Holy/BahuBirthday.mp3",
+        "avatar": "Pictures/PP.png",
+        "gain": 2.0
+      },
+          {
+        "name": "Misa Birthday",
+        "song": "Birthday Misa",
+        "audio": "Holy/MisaBirthday.mp3",
+        "avatar": "Pictures/PP.png",
+        "gain": 3.0
+      },
       {
         "name": "Birthday Man",
         "song": "Happy Birthday",
         "audio": "Nova/NovaSong1.mp3",
         "avatar": "Pictures/PP.png",
         "gain": 0.4
-      },
-        {
-        "name": "Happy Man",
-        "song": "Happy Day",
-        "audio": "Mirai/Mirai-Music2.mp3",
-        "avatar": "Pictures/PP.png",
-        "gain": 0.4
-      },
-        {
-        "name": "Birthday Remix",
-        "song": "Birthday Remix",
-        "audio": "Nova/NovaSong2.mp3",
-        "avatar": "Pictures/PP.png",
-        "gain": 0.4
       }
+     
+    
     ]
   },
 
