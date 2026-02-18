@@ -93,7 +93,7 @@
 },
 "Misa-Thank-You":{
   "type": "text",
-  "title": "The Goddess of Cuteness MisaMisaVT's words!",
+  "title": "The Goddess of Cuteness MisaMisaVT's words! wait no words because she was busy! XD",
   "body": ["Some words of Thanks from MisaMisaVT!"]
 },
 
@@ -171,11 +171,10 @@
   "Phantom-SlideShow-Left": {
   "type": "slideshow",
   "images":[
-    "Nova/Nova11.png",
-    "Nova/Nova13.png",
-    "Nova/Nova15.png",
-    "Nova/Nova17.png",
-    "Nova/Nova19.jpg"
+    "Holy/Holy11.png",
+    "Holy/Holy13.png",
+    "Holy/Holy15.png",
+    "Holy/Holy17.png"
   ],
   "interval":4000,
   "loop":true
@@ -184,11 +183,10 @@
 "Phantom-SlideShow-Right": {
   "type": "slideshow",
   "images":[
-    "Nova/Nova12.png",
-    "Nova/Nova14.png",
-    "Nova/Nova16.png",
-    "Nova/Nova18.png",
-    "Nova/Nova20.png"
+    "Holy/Holy12.png",
+    "Holy/Holy14.png",
+    "Holy/Holy16.png",
+    "Holy/Holy18.png"
   ],
   "interval":4000,
   "loop":true
@@ -233,11 +231,141 @@
 "Holy-Bahu-Clip": {
   "type": "twitch",
   "clip": "RespectfulRefinedZebraANELE-xA33JS6TUsqlDQ5G"
+},
+"Holy-Bee-Text": {
+  "type": "text",
+  "typeContent": "tribute",
+  "body": [
+    "What does bee call you? - Husbando",
+
+    "what Does bee think of Holy? -",
+    "Holy, what can I say that I’m sure others haven’t already?",
+    
+    "It’s fitting that you’re a Holy Cake Priest, because your spirit truly shines through — whether it’s with friends or on stream.",
+    
+    "Your laugh and your general attitude are infectious to everyone around you. You’re always willing to help or cheer someone up, and you genuinely care about the people in your life.",
+    
+    "You always make time, even when you’re busy or tired, just to check in.",
+    
+    "When we first met, I already knew who you were from the way your friends talked about you. I’ve never met anyone who knew you and could say you were anything less than a great guy.",
+    
+    "So when I finally got to watch your stream — after only seeing you pop into my chat a handful of times — I really wanted to be your friend.",
+    
+    "Since then, becoming your friend and being welcomed into your friend group with Butt Juice, Shoko, Tay, and everyone that Chuckles snuck me in with hehe, I’ve had so much fun.",
+    
+    "So many laughs. So many WTF moments. More than I could ever count.",
+    
+    "I am so grateful that you were born, and that I got the chance to become your friend.",
+    
+    "I hope this is the first of many birthdays I get to spend with you.",
+    
+    "Happy Birthday Holy 🎉💜",
+
+
+    "What about video on side? - We didnt get the cake video yet 🥀💔 "
+  ]
+},
+"Holy-Bee-Clip": {
+  "type": "twitch",
+  "clip": "RespectfulRefinedZebraANELE-xA33JS6TUsqlDQ5G"
+},
+
+"Holy-Koh-Text": {
+  "type": "text",
+  "typeContent": "tribute",
+  "body": [
+    "What does manager calls holy? - Hoho / Bancookie",
+
+    "what Does manager think of Holy? -",
+    "holy is i think a hard working person, cares about his friends and he looks after them when he can, best mod YUH",
+    
+    "What is koh's fav moment with holy?",
+    "my fav moment with holy when we first started to play monhun together and then played more monhun after that. And eventually gave me the manager nickname"
+  ]
+},
+"Holy-Koh-Clip": {
+  "type": "twitch",
+  "clip": "RespectfulRefinedZebraANELE-xA33JS6TUsqlDQ5G"
+},
+"Holy-Tay-Text": {
+  "type": "text",
+  "typeContent": "tribute",
+  "body": [
+    "What does TayBae calls holy? - My Son",
+
+    "what Does manager think of Holy? -",
+    "idk he hasnt answered yet"
+  ]
+},
+"Holy-Tay-Clip": {
+  "type": "twitch",
+  "clip": "RespectfulRefinedZebraANELE-xA33JS6TUsqlDQ5G"
+},
+
+"Room-Left-Slideshow": {
+  "type": "slideshow",
+  "images":[
+    "Holy/Holy1.png",
+    "Holy/Holy5.gif",
+    "Holy/Holy3.png",
+    "Holy/Holy8.gif",
+    "Holy/Holy4.png",
+    "Holy/Holy11.png",
+    "Holy/Holy13.png",
+    "Holy/Holy15.png",
+    "Holy/Holy17.png",
+    "Holy/Holy19.png"
+  ],
+  "interval":4000,
+  "loop":true
+  
+},
+"Room-Right-Slideshow": {
+  "type": "slideshow",
+  "images":[
+    "Holy/Holy9.png",
+    "Holy/Holy2.gif",
+    "Holy/Holy10.png",
+    "Holy/Holy8.gif",
+    "Holy/Holy6.png",
+     "Holy/Holy12.png",
+    "Holy/Holy14.png",
+    "Holy/Holy16.png",
+    "Holy/Holy18.png",
+    "Holy/Holy20.png"
+  ],
+  "interval":4000,
+  "loop":true
+  
+},
+"Holy-sumi-Text": {
+  "type": "text",
+  "typeContent": "tribute",
+  "body": [
+    "What does sumi chan calls holy? - My Little Banchuchen or My Little Banchuchu :3",
+
+    "what Does sumi think of Holy? -",
+    "Hmmmmmm",
+    "Holy is an amazing person (fruit) ",
+    "He brings so much joy and happiness to the people around him ",
+    "My  Little Banchuchen makes me smile every single time even with the smallest things ᓚ₍^..^₎♡"
+  ]
+},
+"Holy-sumi-Clip1": {
+  "type": "twitch",
+  "clip": "TardySlickOkapiPhilosoraptor-GNXzzwn09tMXed3L"
+},
+"Holy-sumi-Clip2": {
+  "type": "twitch",
+  "clip": "GoldenCuriousWheelWTRuck-F8cZpeKvRrlLukh6"
+},
+"Holy-sumi-Clip3": {
+  "type": "twitch",
+  "clip": "ZanyObedientOpossumFailFish-kOUMrOsK7Z2fipYn"
+},
+"Holy-sumi-Clip4": {
+  "type": "twitch",
+  "clip": "AcceptableSleepySwallowPupper-CPl1O4EZou15xJXO"
 }
-
-
-
-
-
 
 }
